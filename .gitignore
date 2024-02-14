@@ -1,0 +1,9 @@
+# data
+data.tar.gz
+data/
+output.csv
+
+# base code
+baseline_code.ipynb
+code.tar.gz
+work_dirs/
