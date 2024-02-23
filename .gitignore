@@ -1,0 +1,10 @@
+# data
+data.tar.gz
+data/
+output.csv
+__pycache__/
+
+# base code
+baseline_code.ipynb
+code.tar.gz
+work_dirs/
